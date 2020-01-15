@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Ejerc04a</string>
+    <string name="rn_nombre">Nombre</string>
+    <string name="rn_dni">DNI</string>
+    <string name="rn_direccion">Dirección de su Casa</string>
+    <string name="rn_salario">Salario</string>
+    <string name="rn_ok">OK</string>
+    <string name="rn_Datos_Trabajador">Datos del Trabajador</string>
+</resources>
